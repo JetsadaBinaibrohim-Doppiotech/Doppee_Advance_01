@@ -1,0 +1,29 @@
+==============================================================================
+Tc                                                                            
+==============================================================================
+TC02                                                                  Login Page Valid ?
+User ID : 12216
+User Status : success
+User Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImpldHNhZGEuYmluQGRvcHBpb3RlY2guY29tIiwiaWQiOjEyMjE2fQ.llpNWbT2WjKwnNjvAcp1-QWP5pMcwTcPQ4nrFA5P_UI
+User Type : login
+Login Page Valid ?
+User ID : 12216
+User Status : success
+User Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImpldHNhZGEuYmluQGRvcHBpb3RlY2guY29tIiwiaWQiOjEyMjE2fQ.llpNWbT2WjKwnNjvAcp1-QWP5pMcwTcPQ4nrFA5P_UI
+User Type : login
+{'crossOutPrice': 20000.0, 'currency': 'THB', 'description': 'Greate phone', 'discount': 20.0, 'id': 1, 'image_url': 'https://www.publicdomainpictures.net/pictures/400000/nahled/image-1618560279s1o.png', 'name': 'Doppee phone', 'price': 19980.0, 'qty': 45}
+20000.0
+1
+20.0
+Doppee phone
+19980.0
+product NAME : Doppee phone is equl Doppee phone
+product ID : 1 is equl 1
+45 qty of product
+20.0 discount
+| PASS |
+------------------------------------------------------------------------------
+Tc                                                                    | PASS |
+1 test, 1 passed, 0 failed
+==============================================================================
+Output:  C:\Users\jetsada.b\Desktop\GitHub\Doppee_Advance_01\Testcase\log_data\pabot_results\1\output.xml
