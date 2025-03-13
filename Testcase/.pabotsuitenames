@@ -1,0 +1,7 @@
+datasources:a233d70871b868c604e46dfe702018a153fce0ab
+commandlineoptions:65f95c924ba97541f47949701c4e3c51192a5b43
+suitesfrom:no-suites-from-option
+file:50abc7e40b8cbab64b1fb8b1a103b29da017baeb
+--test Tc.TC01
+--test Tc.TC02
+--test Tc.TC03

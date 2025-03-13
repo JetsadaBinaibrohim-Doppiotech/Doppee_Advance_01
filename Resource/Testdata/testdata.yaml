@@ -1,0 +1,48 @@
+#time global
+timeout : 30s
+
+#browser endpoint
+browser :
+  url   : "https://training-platform.doppio-tech.com"
+  type  : "chrome"
+
+#reistration and login data
+register :
+  username      : "autotesting"
+  domain        : "@gmail.com"
+  password      : "Auto100*"
+
+login :
+  username : "Jetsada.bin@doppiotech.com"
+  password : "Jill123*"
+
+
+#searching data
+tc01 :
+  product_name : "Coppee phone"
+  product_id   : 4
+tc02 :
+  product_name : "Doppee phone"
+  product_id   : 1
+
+#delivery information
+user :
+  fullname : "Auto"
+  surname  : "Testing"
+  address  : "Samutphakran,Thailand"
+  phone    : "0841112222"
+
+#payment information
+payment :
+  number : "4111111111111111"
+  exp    : "12/2077"
+  cvc    : "512"
+  cardname : "Senor Joyas"
+
+#Database info
+DB_DRIVER: psycopg2                #ชนิดของ Database
+DB_HOST: 125.26.15.143           #ที่อยู่ของเซริฟเวอร์
+DB_PORT: 10004                   #พอร์ตของ Database
+DB_NAME: training_platform_db    #ชื่อของ Database ที่ต้องการเชื่อมต่อ
+DB_USER: doppio-training-user    #ชื่อผู้ใช้ของ Database
+DB_PASSWORD: Doppio123*              #รหัสผ่านของ Database
